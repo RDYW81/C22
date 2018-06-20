@@ -1,8 +1,6 @@
 #include <stdio.h>
 
 int main (){
-    int i;
-    int d, m, y;
     int mwst = 5;
     int skon = 50;
     float eingabebetrag;
